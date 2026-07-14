@@ -1,8 +1,8 @@
 [
   {
     "name": "Capat Brancusi",
-    "lat": 46.759819,
-    "lng": 23.614938,
+    "lat": 46.759694,
+    "lng": 23.615190,
     "info": "",
     "image": "../assets/location-images/brancusi-lacrimioarelor.png"
   },
@@ -11,5 +11,17 @@
     "lat": 46.765309,
     "lng": 23.620053,
     "info": "Dau si la sfert"
+  },
+  {
+    "name": "Bună Ziua Trifoiului",
+    "lat": 46.750381,
+    "lng": 23.606910,
+    "info": ""
+  },
+  {
+    "name": "Bună Ziua Bonjour",
+    "lat": 46.749089,
+    "lng": 23.601361,
+    "info": ""
   }
 ]

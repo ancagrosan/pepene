@@ -1,5 +1,5 @@
 const CITY_CENTER = [46.76903, 23.5902]; // Unirii Square
-const INITIAL_ZOOM = 14;
+const INITIAL_ZOOM = 13;
 
 // Init map
 const map = L.map("map").setView(CITY_CENTER, INITIAL_ZOOM);
