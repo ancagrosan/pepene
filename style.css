@@ -7,6 +7,8 @@
   --green: #1f8a4c;
   --light-green: #9eac41;
   --dark-green: #17703c;
+  --white: #f9f9f9;
+  --black: #353636;
 }
 
 html, body {
@@ -16,6 +18,9 @@ html, body {
 body {
   display: flex;
   flex-direction: column;
+  background-color: var(--white);
+  color: var(--black);
+  line-height: 1.2;
 }
 
 header {
@@ -32,7 +37,7 @@ header {
       var(--dark-green) 41px,
       var(--dark-green) 54px
     );
-  color: white;
+  color: var(--white);
   padding: 1rem 1.5rem;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
@@ -53,14 +58,14 @@ header h2 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 90px;
+  margin-top: 98px;
   z-index: 10;
 }
 
 .content #map {
   width: 80%;
-  height: 600px;
-  margin: 0 32px;
+  height: 500px;
+  margin: 0 18px;
 }
 
 .content .bottom {
@@ -74,7 +79,7 @@ header h2 {
 
 .content img {
   max-width: 400px;  
-  margin: 32px;
+  margin: 18px;
 }
 
 .leaflet-popup-content b {
@@ -84,15 +89,13 @@ header h2 {
 .watermelon-icon {
   font-size: 24px;
   text-align: center;
-  line-height: 30px;
   background: none;
   border: none;
 }
 
 footer {
-  padding: 20px 0;
+  padding: 18px 0;
   font-size: 11px;
   text-align: center;
-  border-top: 1px solid #eaeaea;
-  line-height: 1.2;
+  border-top: 1px solid #e1e1e1;
 }

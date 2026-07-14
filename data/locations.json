@@ -1,9 +1,10 @@
 [
   {
     "name": "Capat Brancusi",
-    "lat": 46.758408,
-    "lng": 23.617360,
-    "info": ""
+    "lat": 46.759819,
+    "lng": 23.614938,
+    "info": "",
+    "image": "../assets/location-images/brancusi-lacrimioarelor.png"
   },
   {
     "name": "Liviu Rebreanu",
