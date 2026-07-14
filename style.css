@@ -2,6 +2,11 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+
+  --red: #be4735;
+  --green: #1f8a4c;
+  --light-green: #9eac41;
+  --dark-green: #17703c;
 }
 
 html, body {
@@ -22,10 +27,10 @@ header {
   background:
     repeating-linear-gradient(
       120deg,
-      #1f8a4c 0px,
-      #2fa860 41px,
-      #17703c 41px,
-      #17703c 54px
+      var(--green) 0px,
+      var(--light-green) 41px,
+      var(--dark-green) 41px,
+      var(--dark-green) 54px
     );
   color: white;
   padding: 1rem 1.5rem;
@@ -37,11 +42,11 @@ header {
 
 header h1 {
   font-size: 1.5rem;
-  margin-bottom: 0.25rem;
 }
 
 header h2 {
   font-size: 0.95rem;
+  font-weight: 400;
 }
 
 .content {
@@ -56,6 +61,15 @@ header h2 {
   width: 80%;
   height: 600px;
   margin: 0 32px;
+}
+
+.content .bottom {
+  display: flex;
+}
+
+.content .bottom p {
+  display: flex;
+  align-items: center;
 }
 
 .content img {
