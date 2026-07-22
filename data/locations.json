@@ -1,27 +1,44 @@
 [
   {
-    "name": "Capat Brancusi",
+    "name": "Brâncuși Lăcrimioarelor",
     "lat": 46.759694,
-    "lng": 23.615190,
-    "info": "",
-    "image": "../assets/location-images/brancusi-lacrimioarelor.png"
+    "long": 23.615190,
+    "address": "Strada Constantin Brâncuși 153",
+    "notes": "",
+    "img": "../assets/location-images/brancusi.png"
   },
   {
     "name": "Liviu Rebreanu",
-    "lat": 46.765309,
-    "lng": 23.620053,
-    "info": "Dau si la sfert"
+    "lat": 46.765359,
+    "long": 23.620042,
+    "address": "Strada Liviu Rebreanu 46",
+    "notes": "Dau si la sfert"
   },
   {
-    "name": "Bună Ziua Trifoiului",
+    "name": "Bună Ziua",
     "lat": 46.750381,
-    "lng": 23.606910,
-    "info": ""
+    "long": 23.606910,
+    "address": "Aleea Gogu Constantinescu",
+    "notes": ""
   },
   {
     "name": "Bună Ziua Bonjour",
     "lat": 46.749089,
-    "lng": 23.601361,
+    "long": 23.601361,
+    "notes": ""
+  },
+  {
+    "name": "Spate Interservisan",
+    "lat": 46.769329,
+    "long": 23.617596,
+    "address": "Strada Bistriței 87",
+    "notes": ""
+  },
+  {
+    "name": "Albini",
+    "lat": 46.762493,
+    "long": 23.613473,
+    "address": "Strada Septimiu Albini 124",
     "info": ""
   }
 ]

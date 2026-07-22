@@ -99,3 +99,23 @@ footer {
   text-align: center;
   border-top: 1px solid #e1e1e1;
 }
+
+@media (width < 680px) {
+  .content #map {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .bottom {
+    flex-direction: column-reverse;
+    max-width: 90%;
+    margin: 0 auto;
+  }
+
+  .bottom img {
+    margin: 0 0 18px;
+  }
+
+  .bottom p {
+    margin: 18px auto;
+  }
+}
