@@ -43,7 +43,8 @@
     "name": "Fântânele 12",
     "lat": 46.768884,
     "long": 23.553456,
-    "address": "Strada Fântânele 12"
+    "address": "Strada Fântânele 12",
+    "img": "assets/location-images/fantanele.png"
   },
   {
     "name": "Donath",
@@ -56,7 +57,8 @@
     "name": "Miraslău",
     "lat": 46.766033,
     "long": 23.550203,
-    "address": "Parcare Strada Miraslău"
+    "address": "Parcare Strada Miraslău",
+    "img":"assets/location-images/profi.png"
   },
   {
     "name": "Lunii",
@@ -93,5 +95,13 @@
     "lat": 46.79570693506164,
     "long": 23.60287282217371,
     "address": "400268, Strada Oașului 90"
+  },
+  {
+    "name": "Arieșului",
+    "lat": 46.764302061168976,
+    "long": 23.614099360225048,
+    "address": "Strada Arieșului 103",
+    "img":"assets/location-images/ariesului.png"
+
   }
 ]
