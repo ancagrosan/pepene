@@ -70,5 +70,11 @@
     "lat": 46.75195989147706, 
     "long": 23.577410301715275,
     "address": "Strada Observatorului 129"
+  },
+  {
+    "name": "Complex Mercur",
+    "lat": 46.76738197528518,
+    "long": 23.624552232693016,
+    "address": "Aleea Detunata 1"
   }
 ]
