@@ -66,11 +66,13 @@ header h2 {
   width: 80%;
   height: 500px;
   margin: 0 18px;
-  border-radius: 6px;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
 }
 
 .content .bottom {
   display: flex;
+  margin: 48px 0;
 }
 
 .content .bottom p {
@@ -82,9 +84,9 @@ header h2 {
 
 .content img {
   max-width: 400px;  
-  margin: 18px;
-  border-radius: 6px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, .16);
+  margin-right: 48px;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
 }
 
 .leaflet-popup-content b {
@@ -101,7 +103,7 @@ header h2 {
 footer {
   width: 100%;
   padding: 18px 0;
-  font-size: 11px;
+  font-size: 12px;
   text-align: center;
   border-top: 1px solid #e1e1e1;
 }
@@ -109,25 +111,27 @@ footer {
 .leaflet-popup-content img {
   max-width: 100%;
   margin: 10px 0 0;
+  border-radius: 4px;
 }
 
 @media (width < 680px) {
   .content #map {
     width: 90%;
-    height: 400px;
+    height: 60vh;
     margin: 0 auto;
   }
-  .bottom {
+  
+  .content .bottom {
     flex-direction: column-reverse;
     max-width: 90%;
     margin: 0 auto;
   }
 
-  .bottom img {
+  .content .bottom img {
     margin: 0 0 18px;
   }
 
-  .bottom p {
+  .content .bottom p {
     margin: 18px auto;
   }
 }
