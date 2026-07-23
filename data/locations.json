@@ -76,5 +76,29 @@
     "lat": 46.76738197528518,
     "long": 23.624552232693016,
     "address": "Aleea Detunata 1"
+  },
+  {
+    "name": "Iris",
+    "lat": 46.79260086549386,
+    "long": 23.604067004004595,
+    "address": "Strada Iris, intersecție Oașului"
+  },
+  {
+    "name": "Nădășel",
+    "lat": 46.79115234499329,
+    "long": 23.605695207317318,
+    "address": "Strada Nădășel 40"
+  },
+  {
+    "name": "Iris",
+    "lat": 46.793039466682664,
+    "long": 23.605138087030515,
+    "address": "Strada Iris"
+  },
+  {
+    "name": "Oașului",
+    "lat": 46.79570693506164,
+    "long": 23.60287282217371,
+    "address": "400268, Strada Oașului 90"
   }
 ]
