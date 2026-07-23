@@ -101,7 +101,14 @@
     "lat": 46.764302061168976,
     "long": 23.614099360225048,
     "address": "Strada Arieșului 103",
-    "img":"assets/location-images/ariesului.png"
-
+    "img": "assets/location-images/ariesului.png",
+    "notes": "Au și roșii, ardei"
+  },
+  {
+    "name": "Dunării",
+    "lat": 46.777160,
+    "long": 23.633172,
+    "address": "Strada Dunării 51",
+    "notes": "Gustoși si dulci"
   }
 ]
