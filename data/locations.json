@@ -4,7 +4,6 @@
     "lat": 46.759694,
     "long": 23.615190,
     "address": "Strada Constantin Brâncuși 153",
-    "notes": "",
     "img": "assets/location-images/brancusi.png"
   },
   {
@@ -19,21 +18,18 @@
     "name": "Bună Ziua",
     "lat": 46.750381,
     "long": 23.606910,
-    "address": "Aleea Gogu Constantinescu",
-    "notes": ""
+    "address": "Aleea Gogu Constantinescu"
   },
   {
     "name": "Bună Ziua Bonjour",
     "lat": 46.749089,
-    "long": 23.601361,
-    "notes": ""
+    "long": 23.601361
   },
   {
     "name": "Spate Interservisan",
     "lat": 46.769329,
     "long": 23.617596,
     "address": "Strada Bistriței 87",
-    "notes": "",
     "img": "assets/location-images/bistritei.jpg"
   },
   {
@@ -41,7 +37,38 @@
     "lat": 46.762493,
     "long": 23.613473,
     "address": "Strada Septimiu Albini 124",
-    "notes": "",
     "img": "assets/location-images/albini.jpg"
+  },
+  {
+    "name": "Fântânele 1",
+    "lat": 46.769687788171005,
+    "long": 23.554894148193327,
+    "address": "Strada Fântânele 1",
+    "notes": "în curtea magazinului Rusiana"
+  },
+  {
+    "name": "Fântânele 12",
+    "lat": 46.768884,
+    "long": 23.553456,
+    "address": "Strada Fântânele 12"
+  },
+  {
+    "name": "Donath",
+    "lat": 46.77060990494447,
+    "long": 23.551634094473823,
+    "address": "Str. Donath 51",
+    "notes": "Lângă Oncos"
+  }, 
+  {
+    "name": "Miraslău",
+    "lat": 46.766033,
+    "long": 23.550203,
+    "address": "Parcare Strada Miraslău"
+  },
+  {
+    "name": "Lunii",
+    "lat": 46.75195989147706, 
+    "long": 23.577410301715275,
+    "address": "Strada Observatorului 129"
   }
 ]
