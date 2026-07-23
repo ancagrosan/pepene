@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
 
-  --red: #be4735;
+  --pink: #ffb3ba;
   --green: #1f8a4c;
   --light-green: #9eac41;
   --dark-green: #17703c;
@@ -100,12 +100,26 @@ header h2 {
   border: none;
 }
 
+footer::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(120deg,
+      var(--green) 0px,
+      var(--light-green) 41px,
+      var(--dark-green) 41px,
+      var(--dark-green) 54px);
+  opacity: 0.08;
+  pointer-events: none;
+}
+
 footer {
   width: 100%;
+  position: relative;
+  background: linear-gradient(135deg, var(--pink) 0%, var(--white) 100%);
   padding: 18px 0;
-  font-size: 12px;
   text-align: center;
-  border-top: 1px solid #e1e1e1;
+  font-size: 0.75em;
 }
 
 .leaflet-popup-content img {

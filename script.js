@@ -3,7 +3,7 @@ const INITIAL_ZOOM = 13;
 
 // Init map
 const map = L.map("map", {
-  minZoom: 10,
+  minZoom: 11,
   bounceAtZoomLimits: false,
 }).setView(CITY_CENTER, INITIAL_ZOOM);
 
