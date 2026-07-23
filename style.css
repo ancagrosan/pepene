@@ -75,7 +75,7 @@ header h2 {
 .content .bottom p {
   display: flex;
   align-items: center;
-  white-space: pre;
+  white-space: pre-wrap;
   line-height: 1.5;
 }
 
@@ -96,6 +96,8 @@ header h2 {
 }
 
 footer {
+  max-width: 90%;
+  margin: 0 auto;
   padding: 18px 0;
   font-size: 11px;
   text-align: center;
@@ -110,6 +112,7 @@ footer {
 @media (width < 680px) {
   .content #map {
     width: 90%;
+    height: 400px;
     margin: 0 auto;
   }
   .bottom {

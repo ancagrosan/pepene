@@ -7,8 +7,6 @@ const map = L.map("map").setView(CITY_CENTER, INITIAL_ZOOM);
 // Layer OpenStreetMap
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-  maxZoom: 15,
-  bounceAtZoomLimits: false,
 }).addTo(map);
 
 const watermelonIcon = L.divIcon({
@@ -24,11 +22,16 @@ fetch("data/locations.json")
   .then((locations) => {
     locations.forEach((p) => {
       const marker = L.marker([p.lat, p.long], { icon: watermelonIcon }).addTo(map);
+
+      const imgHtml = p.img
+        ? `<img src="${p.img}" alt="${p.name}" onerror="this.style.display='none'">`
+        : "";
+
       marker.bindPopup(
-        `<b>${p.name}</b>
-        <br/>${p.address || ""}
-        <br>${p.notes || ""}
-        ${p.img ? `<img src="${p.img}" alt="${p.name}">` : ""}`,
+        `<b>${p.name}</b><br/>
+        ${p.address || ""}<br>
+        ${p.notes || ""}
+        ${imgHtml}`,
       );
     });
   })

@@ -5,7 +5,7 @@
     "long": 23.615190,
     "address": "Strada Constantin Brâncuși 153",
     "notes": "",
-    "img": "../assets/location-images/brancusi.png"
+    "img": "assets/location-images/brancusi.png"
   },
   {
     "name": "Liviu Rebreanu",
@@ -13,7 +13,7 @@
     "long": 23.620042,
     "address": "Strada Liviu Rebreanu 46",
     "notes": "Dau si la sfert",
-    "img":"../assets/location-images/rebreanu.jpg"
+    "img":"assets/location-images/rebreanu.jpg"
   },
   {
     "name": "Bună Ziua",
@@ -34,14 +34,14 @@
     "long": 23.617596,
     "address": "Strada Bistriței 87",
     "notes": "",
-    "img": "../assets/location-images/bistritei.jpg"
+    "img": "assets/location-images/bistritei.jpg"
   },
   {
     "name": "Albini",
     "lat": 46.762493,
     "long": 23.613473,
     "address": "Strada Septimiu Albini 124",
-    "info": "",
-    "img": "../assets/location-images/albini.jpg"
+    "notes": "",
+    "img": "assets/location-images/albini.jpg"
   }
 ]
