@@ -66,6 +66,7 @@ header h2 {
   width: 80%;
   height: 500px;
   margin: 0 18px;
+  border-radius: 6px;
 }
 
 .content .bottom {
@@ -82,6 +83,8 @@ header h2 {
 .content img {
   max-width: 400px;  
   margin: 18px;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .16);
 }
 
 .leaflet-popup-content b {
@@ -96,8 +99,7 @@ header h2 {
 }
 
 footer {
-  max-width: 90%;
-  margin: 0 auto;
+  width: 100%;
   padding: 18px 0;
   font-size: 11px;
   text-align: center;
