@@ -75,6 +75,8 @@ header h2 {
 .content .bottom p {
   display: flex;
   align-items: center;
+  white-space: pre;
+  line-height: 1.5;
 }
 
 .content img {
@@ -98,6 +100,11 @@ footer {
   font-size: 11px;
   text-align: center;
   border-top: 1px solid #e1e1e1;
+}
+
+.leaflet-popup-content img {
+  max-width: 100%;
+  margin: 10px 0 0;
 }
 
 @media (width < 680px) {
