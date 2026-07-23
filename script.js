@@ -1,4 +1,4 @@
-const CITY_CENTER = [46.76903, 23.5902]; // Unirii Square
+const CITY_CENTER = [46.77026, 23.59576];
 const INITIAL_ZOOM = 13;
 
 // Init map
