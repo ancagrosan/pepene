@@ -16,9 +16,10 @@
   },
   {
     "name": "Bună Ziua",
+    "address": "Strada Bună Ziua, 57",
     "lat": 46.750381,
     "long": 23.606910,
-    "address": "Aleea Gogu Constantinescu"
+    "img": "assets/location-images/buna-ziua-lidl.png"
   },
   {
     "name": "Bună Ziua Bonjour",
@@ -26,6 +27,13 @@
     "lat": 46.749089,
     "long": 23.601361,
     "img": "assets/location-images/bonjour.png"
+  },
+  {
+    "name": "Bună Ziua",
+    "address": "Aleea Gogu Constantinescu",
+    "lat": 46.75037354464858,
+    "long": 23.604986341666013,
+    "img": "assets/location-images/constantinescu.png"
   },
   {
     "name": "Spate Interservisan",
