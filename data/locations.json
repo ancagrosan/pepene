@@ -17,8 +17,8 @@
   {
     "name": "Bună Ziua",
     "address": "Strada Bună Ziua, 57",
-    "lat": 46.750381,
-    "long": 23.606910,
+    "lat": 46.7506239876256,
+    "long": 23.60702702533624,
     "img": "assets/location-images/buna-ziua-lidl.png"
   },
   {
@@ -73,9 +73,10 @@
   },
   {
     "name": "Lunii",
-    "lat": 46.75195989147706, 
-    "long": 23.577410301715275,
-    "address": "Strada Observatorului 129"
+    "lat": 46.75182249647628,
+    "long": 23.57740981359285,
+    "address": "Strada Observatorului 129",
+    "img": "assets/location-images/golden-tulip.png"
   },
   {
     "name": "Complex Mercur",
@@ -135,5 +136,12 @@
     "lat": 46.75361452492452,
     "long": 23.581728281019938,
     "img": "assets/location-images/obs-profi.png"
+  },
+  {
+    "name": "Tudor Vladimirescu",
+    "lat": 46.78209053010488,
+    "long": 23.561176998051092,
+    "address": "Strada Tudor Vladimirescu 15-17",
+    "img": "assets/location-images/vladimirescu.png"
   }
 ]
