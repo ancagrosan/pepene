@@ -51,7 +51,8 @@
     "lat": 46.77060990494447,
     "long": 23.551634094473823,
     "address": "Str. Donath 51",
-    "notes": "Lângă Oncos"
+    "notes": "Lângă Oncos",
+    "img": "assets/location-images/donath.png"
   }, 
   {
     "name": "Miraslău",
@@ -110,5 +111,13 @@
     "long": 23.633172,
     "address": "Strada Dunării 51",
     "notes": "Gustoși si dulci"
+  },
+  {
+    "name": "Observatorului Recuperare",
+    "lat": 46.754265392778656,
+    "long": 23.58444464394575,
+    "address": "Strada Observatorului 109",
+    "img": "assets/location-images/obs.png",
+    "notes": "Se poate plati cu BTpay"
   }
 ]
