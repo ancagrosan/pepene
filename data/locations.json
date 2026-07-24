@@ -22,8 +22,10 @@
   },
   {
     "name": "Bună Ziua Bonjour",
+    "address": "Strada Bună Ziua 41a",
     "lat": 46.749089,
-    "long": 23.601361
+    "long": 23.601361,
+    "img": "assets/location-images/bonjour.png"
   },
   {
     "name": "Spate Interservisan",
@@ -119,5 +121,11 @@
     "address": "Strada Observatorului 109",
     "img": "assets/location-images/obs.png",
     "notes": "Se poate plati cu BTpay"
+  },
+  {
+    "name": "Observatorului Profi",
+    "lat": 46.75361452492452,
+    "long": 23.581728281019938,
+    "img": "assets/location-images/obs-profi.png"
   }
 ]
