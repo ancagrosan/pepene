@@ -143,5 +143,12 @@
     "long": 23.561176998051092,
     "address": "Strada Tudor Vladimirescu 15-17",
     "img": "assets/location-images/vladimirescu.png"
+  },
+    {
+    "name": "Scorțarilor Crinului",
+    "lat": 46.77905090711977, 
+    "long": 23.609319047988308,
+    "address": "Strada Crinului 9",
+    "img": "assets/location-images/crinului.png"
   }
 ]
