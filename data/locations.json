@@ -159,5 +159,11 @@
     "address": "Strada Uzinei Electrice 17",
     "img": "assets/location-images/arena.png",
     "notes": "Fac și dop"
+  },
+  {
+    "name": "21 Decembrie",
+    "lat": 46.77690304984057, 
+    "long": 23.60873303043653,
+    "address": "Bulevardul 21 Decembrie 1989 Nr 140"
   }
 ]
