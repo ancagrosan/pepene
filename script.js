@@ -1,5 +1,6 @@
 const CITY_CENTER = [46.77026, 23.59576];
 const INITIAL_ZOOM = 13;
+import { WATERMELON_FACTS } from "./data/facts.js";
 
 // Init map
 const map = L.map("map", {
@@ -43,3 +44,16 @@ fetch("data/locations.json")
   .catch((err) => {
     console.error("Error loading locations:", err);
   });
+
+// Facts
+function getFactOfTheDay(facts) {
+  const today = new Date();
+  const startOfYear = new Date(today.getFullYear(), 0, 0);
+  const dayOfYear = Math.floor((today - startOfYear) / 86400000);
+  const index = dayOfYear % facts.length;
+
+  return facts[index];
+}
+
+const { title, body } = getFactOfTheDay(WATERMELON_FACTS);
+document.getElementById("fun-fact-text").textContent = body;

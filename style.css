@@ -28,6 +28,7 @@ header {
   width: 100%;
   top: 0;
   left: 0;
+  height: 80px;
 
   background:
     repeating-linear-gradient(
@@ -54,11 +55,27 @@ header h2 {
   font-weight: 400;
 }
 
+.fun-fact-banner {
+  margin-top: 80px;
+  background-image: url("./assets/seeds.png");
+  background-repeat: repeat-x;
+  background-size: contain;
+  padding: 10px 16px;
+  text-align: center;
+  font-size: 0.95rem;
+  color: var(--white);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6), 0 0 8px rgba(0, 0, 0, 0.4);
+}
+
+.fun-fact-icon {
+  margin-right: 6px;
+}
+
 .content {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 98px;
+  /* margin-top: 18px; */
   z-index: 10;
 }
 
@@ -149,3 +166,4 @@ footer {
     margin: 18px auto;
   }
 }
+
