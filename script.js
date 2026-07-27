@@ -43,3 +43,12 @@ fetch("data/locations.json")
   .catch((err) => {
     console.error("Error loading locations:", err);
   });
+
+// Play pepene 🗣️
+const soundBtn = document.getElementById("sound-trigger");
+const soundAudio = document.getElementById("sound-audio");
+
+soundBtn.addEventListener("click", () => {
+  soundAudio.currentTime = 0;
+  soundAudio.play();
+});
