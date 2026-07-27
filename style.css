@@ -131,7 +131,7 @@ footer {
 .sound-trigger {
   position: fixed;
   top: 58px;
-  right: 54px;
+  right: 36px;
   color: transparent;
   text-shadow: 0 0 0 var(--dark-green);
   width: 44px;
