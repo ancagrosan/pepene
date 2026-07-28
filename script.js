@@ -51,4 +51,10 @@ const soundAudio = document.getElementById("sound-audio");
 soundBtn.addEventListener("click", () => {
   soundAudio.currentTime = 0;
   soundAudio.play();
+
+  // Track how many times the pepene button is clicked
+  fetch("https://api.counterapi.dev/v1/pepeni-cluj/pepene-button-clicks/up")
+    .then((res) => res.json())
+    .then((data) => console.log("Total apăsări:", data.count))
+    .catch((err) => console.error("Counter error:", err));
 });
