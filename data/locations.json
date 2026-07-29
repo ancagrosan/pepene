@@ -172,5 +172,19 @@
     "long": 23.63547904524399,
     "address": "Strada Soporului 5",
     "img":"assets/location-images/soporului.png"
+  },
+  {
+    "name": "Unirii",
+    "lat": 46.76848846014672, 
+    "long": 23.619386442108116,
+    "address": "Strada Unirii",
+    "img":"assets/location-images/unirii1.jpg"
+  },
+  {
+    "name": "Unirii",
+    "lat": 46.768365139993044, 
+    "long": 23.619791890058927,
+    "address": "Strada Unirii",
+    "img":"assets/location-images/unirii2.jpg"
   }
 ]
