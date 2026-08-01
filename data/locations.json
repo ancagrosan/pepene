@@ -172,5 +172,38 @@
     "long": 23.63547904524399,
     "address": "Strada Soporului 5",
     "img":"assets/location-images/soporului.png"
+  },
+  {
+    "name": "Unirii",
+    "lat": 46.76848846014672, 
+    "long": 23.619386442108116,
+    "address": "Strada Unirii",
+    "img":"assets/location-images/unirii1.jpg"
+  },
+  {
+    "name": "Unirii",
+    "lat": 46.768365139993044, 
+    "long": 23.619791890058927,
+    "address": "Strada Unirii",
+    "img":"assets/location-images/unirii2.jpg"
+  },
+  {
+    "name": "Maramureșului 2",
+    "lat": 46.78874239896851, 
+    "long": 23.57965295876042,
+    "address": "Strada Maramureșului 2"
+  },
+  {
+    "name": "Branului 2",
+    "lat": 46.78449255154225, 
+    "long": 23.646335138417744,
+    "address": "Strada Branului 2",
+    "img": "assets/location-images/branului.png"
+  },
+  {
+    "name": "Plevnei 142",
+    "lat": 46.78671691633373, 
+    "long": 23.640623402607286,
+    "address": "Strada Plevnei 142"
   }
 ]

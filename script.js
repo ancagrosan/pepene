@@ -57,3 +57,17 @@ function getFactOfTheDay(facts) {
 
 const { title, body } = getFactOfTheDay(WATERMELON_FACTS);
 document.getElementById("fun-fact-text").textContent = body;
+
+// Play pepene 🗣️
+const soundBtn = document.getElementById("sound-trigger");
+const soundAudio = document.getElementById("sound-audio");
+
+soundBtn.addEventListener("click", () => {
+  soundAudio.currentTime = 0;
+  soundAudio.play();
+
+  // Track how many times the pepene button is clicked
+  fetch("https://api.counterapi.dev/v1/pepeni-cluj/pepene-button-clicks/up")
+    .then((res) => res.json())
+    .catch((err) => console.error("Counter error:", err));
+});
