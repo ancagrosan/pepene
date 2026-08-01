@@ -55,8 +55,8 @@ function getFactOfTheDay(facts) {
   return facts[index];
 }
 
-const { title, body } = getFactOfTheDay(WATERMELON_FACTS);
-document.getElementById("fun-fact-text").textContent = body;
+const factBody = getFactOfTheDay(WATERMELON_FACTS);
+document.getElementById("fun-fact-text").textContent = factBody;
 
 // Play pepene 🗣️
 const soundBtn = document.getElementById("sound-trigger");
