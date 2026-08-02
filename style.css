@@ -4,7 +4,6 @@
   padding: 0;
 
   --pink: #ffb3ba;
-  --red: #ee3742;
   --green: #1f8a4c;
   --light-green: #9eac41;
   --dark-green: #17703c;
@@ -60,7 +59,7 @@ header h2 {
   position: relative;
   margin-top: 80px;
   background-image: url("./assets/seeds2.png"); 
-  background-color: var(--red);
+  background-color: #c82d36;
   background-repeat: repeat-x;
   background-size: contain;
   padding: 10px 64px;
