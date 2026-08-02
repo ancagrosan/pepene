@@ -61,7 +61,7 @@ header h2 {
   background-image: url("./assets/seeds.png");
   background-repeat: repeat-x;
   background-size: contain;
-  padding: 10px 16px;
+  padding: 10px 64px;
   text-align: center;
   font-size: 0.95rem;
   color: var(--white);
@@ -69,10 +69,12 @@ header h2 {
 }
 
 .fun-fact-banner-title {
-  position: absolute;
   left: 10px;
   font-weight: bold;
-  text-decoration: underline;
+  background: rgba(0, 0, 0, 0.2);
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-weight: 700;
 }
 
 .content {
@@ -85,7 +87,7 @@ header h2 {
 
 .content #map {
   width: 80%;
-  height: 500px;
+  height: 450px;
   margin: 0 18px;
   border-radius: 12px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
@@ -172,15 +174,14 @@ footer {
     padding: 16px;
   }
 
-  .fun-fact-banner-title {
-    position: static;
+  .fun-fact-text {
     display: block;
-    margin-bottom: 12px;
+    margin-top: 12px;
   }
 
   .content #map {
     width: 90%;
-    height: 60vh;
+    height: 55vh;
     margin: 0 auto;
   }
   
