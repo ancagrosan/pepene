@@ -4,6 +4,7 @@
   padding: 0;
 
   --pink: #ffb3ba;
+  --red: #ee3742;
   --green: #1f8a4c;
   --light-green: #9eac41;
   --dark-green: #17703c;
@@ -58,7 +59,8 @@ header h2 {
 .fun-fact-banner {
   position: relative;
   margin-top: 80px;
-  background-image: url("./assets/seeds.png");
+  background-image: url("./assets/seeds2.png"); 
+  background-color: var(--red);
   background-repeat: repeat-x;
   background-size: contain;
   padding: 10px 64px;
@@ -71,7 +73,7 @@ header h2 {
 .fun-fact-banner-title {
   left: 10px;
   font-weight: bold;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.4);
   padding: 4px 12px;
   border-radius: 20px;
   font-weight: 700;
@@ -152,8 +154,8 @@ footer {
 }
 
 .sound-trigger {
-  position: fixed;
-  top: 58px;
+  position: absolute;
+  top: 95px;
   right: 36px;
   color: transparent;
   text-shadow: 0 0 0 var(--dark-green);
@@ -165,7 +167,6 @@ footer {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
   font-size: 1.5rem;
   cursor: pointer;
-  z-index: 150;
 }
 
 
