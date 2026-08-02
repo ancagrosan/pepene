@@ -31,11 +31,12 @@ fetch("data/locations.json")
         ? `<img src="${p.img}" alt="${p.name}" onerror="this.style.display='none'">`
         : "";
 
+      const address = p.address ? `${p.address}<br/>` : "";
       const notes = p.notes ? `ⓘ ${p.notes}<br/>` : "";
 
       marker.bindPopup(
         `<b>${p.name}</b><br/>
-        ${p.address || ""}<br>
+        ${address}
         ${notes}
         ${imgHtml}`,
       );

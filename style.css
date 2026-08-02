@@ -58,7 +58,7 @@ header h2 {
 .fun-fact-banner {
   position: relative;
   margin-top: 80px;
-  background-image: url("./assets/seeds2.png"); 
+  background-image: url("./assets/seeds.png"); 
   background-color: #c82d36;
   background-repeat: repeat-x;
   background-size: contain;
