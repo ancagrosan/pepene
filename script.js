@@ -46,17 +46,12 @@ fetch("data/locations.json")
     console.error("Error loading locations:", err);
   });
 
-// Facts
-function getFactOfTheDay(facts) {
-  const today = new Date();
-  const startOfYear = new Date(today.getFullYear(), 0, 0);
-  const dayOfYear = Math.floor((today - startOfYear) / 86400000);
-  const index = dayOfYear % facts.length;
-
-  return facts[index];
+// Get 🍉 fact
+function getRandomFact(facts) {
+  return facts[Math.floor(Math.random() * facts.length)];
 }
 
-const factBody = getFactOfTheDay(WATERMELON_FACTS);
+const factBody = getRandomFact(WATERMELON_FACTS);
 document.getElementById("fun-fact-text").textContent = factBody;
 
 // Play pepene 🗣️
