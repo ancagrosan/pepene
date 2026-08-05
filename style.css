@@ -170,6 +170,63 @@ footer {
 }
 
 
+/* Pepeni Stories */
+.back-link {
+  margin-top: 8px;
+  color: var(--white);
+  font-size: 0.85rem;
+  text-decoration: underline;
+}
+
+.stories-content {
+  width: 80%;
+  margin: 80px auto;
+}
+
+.submit-story-btn {
+  margin: 32px 0;
+  background: var(--green);
+  color: var(--white);
+  padding: 12px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.submit-story-btn:hover {
+  background: var(--dark-green);
+}
+
+.stories-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+
+.story-card {
+  color: var(--black);
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.story-card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.story-author {
+  font-size: 0.85rem;
+  color: #888;
+  margin-bottom: 8px;
+}
+
+.story-text {
+  white-space: pre-wrap;
+}
+
+
 @media (width < 680px) {
   .fun-fact-banner {
     padding: 16px;
@@ -202,5 +259,14 @@ footer {
 
   .sound-trigger {
     right: 9px;
+  }
+
+  .stories-content {
+    width: 90%;
+    margin-bottom: 36px;
+  }
+
+  .stories-list {
+    display: block;
   }
 }
