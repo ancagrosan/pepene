@@ -206,5 +206,13 @@
     "lat": 46.78671691633373, 
     "long": 23.640623402607286,
     "address": "Strada Plevnei 142"
+  },
+  {
+    "name": "Piața Mihai Viteazu",
+    "lat": 46.774694164283, 
+    "long": 23.59360491002365,
+    "address": "Piața Mihai Viteazu 17",
+    "notes": "Intrarea de la flori",
+    "img": "assets/location-images/mihai-viteazu.png"
   }
 ]
