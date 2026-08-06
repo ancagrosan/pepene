@@ -78,6 +78,36 @@ header h2 {
   font-weight: 700;
 }
 
+.stories-nav {
+  position: absolute;
+  top: 100px;
+  left: 20px;
+  z-index: 50;
+}
+
+.stories-nav img {
+  width: 130px;
+}
+
+.stories-nav:hover img {
+  animation: rotate-btn 1.5s linear 3;
+  -webkit-animation: rotate-btn 1.5s linear 3;
+}
+
+.stories-nav p {
+  position: absolute;
+  top: 40px;
+  left: 30px;
+  color: var(--pink);
+  font-weight: bold;
+  font-size: 1.25rem;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6), 0 0 8px rgba(0, 0, 0, 0.4);
+}
+
+.stories-nav:hover p {
+  transform: scale(1.05);
+}
+
 .content {
   display: flex;
   flex-direction: column;
@@ -241,7 +271,6 @@ footer {
 }
 
 .story-card img {
-  width: 100%;
   max-width: 100%;
   max-height: 300px;
   object-fit: cover;
@@ -268,6 +297,25 @@ footer {
   .fun-fact-text {
     display: block;
     margin-top: 12px;
+  }
+
+  .stories-nav {
+    top: 160px;
+    left: 10px;
+  }
+
+  .stories-nav img {
+    width: 100px;
+  }
+
+  .stories-nav p {
+    top: 30px;
+    left: 20px;
+    font-size: 1rem;
+  }
+
+  .content {
+    margin-top: 36px;
   }
 
   .content #map {
@@ -301,6 +349,10 @@ footer {
 
   .stories-list {
     display: block;
+  }
+
+  .story-card {
+    margin-bottom: 18px;
   }
 }
 
