@@ -79,14 +79,14 @@ header h2 {
 }
 
 .stories-nav {
-  position: absolute;
-  top: 100px;
-  left: 20px;
+  position: fixed;
+  bottom: 10px;
+  right: 20px;
   z-index: 50;
 }
 
 .stories-nav img {
-  width: 130px;
+  width: 120px;
 }
 
 .stories-nav:hover img {
@@ -96,8 +96,8 @@ header h2 {
 
 .stories-nav p {
   position: absolute;
-  top: 40px;
-  left: 30px;
+  top: 36px;
+  left: 24px;
   color: var(--pink);
   font-weight: bold;
   font-size: 1.25rem;
@@ -305,11 +305,6 @@ footer {
     margin-top: 12px;
   }
 
-  .stories-nav {
-    top: 160px;
-    left: 10px;
-  }
-
   .stories-nav img {
     width: 100px;
   }
@@ -350,6 +345,7 @@ footer {
 
   .stories-content {
     width: 90%;
+    margin-top: 80px;
     margin-bottom: 36px;
   }
 
