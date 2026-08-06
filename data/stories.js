@@ -8,6 +8,13 @@
 
 export const STORIES = [
   {
+    title: "Pepenele, viața mea",
+    author: "Diana",
+    text: `Când eram mică, pepenele era viața mea. Pe vremea aia îmi petreceam verile la bunica unde aveam destul de des pepene la masă. Bunicul mânca pepenele roșu cu pâine și mă uitam mereu la el fascinată și mă gândeam cât de ciudat e bunicul (dar sincer asta era cea mai mică problemă a lui.) Eu îmi petreceam mult timp scobind toți sâmburii negri din bucățile de pepene și abia după ce îi scoteam pe toți mă puteam bucura de gustul lui. În unele zile, bunica venea cu câte un pepene galben, parfumat. Ne tăia mie și fratelui meu câte o felie și ne dădea zahăr să presărăm deasupra. Nu știu de ce la pepenele galben primeam zahăr și la cel roșu nu, și nici nu am întrebat-o vreodată.
+
+De multe ori bunica rămânea fără bani spre sfârșitul pensiei și atunci mesele deveneau mai mult pâine cu unt și dulceață și mai puțin mâncare gătită. Într-o zi cum erau acelea, m-a chemat la bucătărie și mi-a arătat câteva bancnote. Mi-a spus: “Uite, ăștia sunt ultimii mei bani, îți ia mamaia ție un pepenaș din ei.” M-am bucurat și m-am dus țopăind în sufragerie cu ușa trântindu-se de la curent în urma mea (țin minte și acum ce sunet făcea) și doar mult mai târziu mi-am dat seama că așa arată iubirea.`,
+  },
+  {
     title: "După pepene",
     author: "anca",
     text: `M-am dus cu bicicleta să-mi cumpăr o lebeniță. Am mers într-un loc nou, unde pepenii erau toți destul de mari și l-am ales pe cel mai mic. Puștiul care stătea cu ei l-a cântărit și a zis că mi-l dă cu 30 de lei, de la 34, că vrea să scape de ei.
