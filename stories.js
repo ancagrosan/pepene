@@ -8,7 +8,7 @@ STORIES.forEach((story) => {
   card.innerHTML = `
     ${story.img ? `<img src="${story.img}" class="story-img" alt="${story.title}" />` : ""}
     ${story.title ? `<h3>${story.title}</h3>` : ""}
-    <p class="story-author">de ${story.author}</p>
+    <p class="story-author">✍️ de ${story.author}</p>
     <p class="story-text">${story.text}</p>
   `;
   list.appendChild(card);
