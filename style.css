@@ -136,9 +136,15 @@ header h2 {
   line-height: 1.5;
 }
 
-.content img {
-  max-width: 400px;  
+.content .bottom img {
+  max-width: 400px;
   margin-right: 48px;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.content .leaflet-popup-content img {
+  max-width: 100%;
   border-radius: 12px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
 }
@@ -270,8 +276,8 @@ footer {
   padding: 20px;
 }
 
-.story-card img {
-  max-width: 100%;
+.story-card .story-img {
+  width: 100%;
   max-height: 300px;
   object-fit: cover;
   border-radius: 8px;
