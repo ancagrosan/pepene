@@ -14,4 +14,5 @@ export const WATERMELON_FACTS = [
   "De la plantare până la recoltare, un pepene are nevoie de aproximativ 80–90 de zile.",
   "Un pepene copt are, de obicei, o pată galbenă pe partea care a stat în contact cu pământul.",
   "Pepenele conține electroliți naturali precum potasiu și magneziu, care susțin hidratarea și funcționarea mușchilor.",
+  "Festivalul Lubeniței din Dăbuleni, județul Dolj are loc anual în jurul perioadei 19–20 iunie",
 ];
