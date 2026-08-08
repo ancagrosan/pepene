@@ -115,7 +115,8 @@
     "long": 23.614099360225048,
     "address": "Strada Arieșului 103",
     "img": "assets/location-images/ariesului.png",
-    "notes": "Au și roșii, ardei"
+    "notes": "Au și roșii, ardei",
+    "open": false
   },
   {
     "name": "Dunării",

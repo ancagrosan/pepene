@@ -160,6 +160,11 @@ header h2 {
   border: none;
 }
 
+.watermelon-icon.disabled {
+  color: grey;
+  filter: grayscale(100%);
+}
+
 footer::before {
   content: "";
   position: absolute;
@@ -186,6 +191,11 @@ footer {
   max-width: 100%;
   margin: 10px 0 0;
   border-radius: 4px;
+}
+
+.leaflet-popup-content .closed {
+  margin: 0;
+  color: #ee3742;
 }
 
 .sound-trigger {

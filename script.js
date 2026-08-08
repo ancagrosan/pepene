@@ -26,6 +26,12 @@ fetch("data/locations.json")
   .then((locations) => {
     locations.forEach((p) => {
       const marker = L.marker([p.lat, p.long], { icon: watermelonIcon }).addTo(map);
+      const isClosed = p.open === false;
+
+      // check if location is closed
+      if (isClosed) {
+        L.DomUtil.addClass(marker._icon, "disabled");
+      }
 
       const imgHtml = p.img
         ? `<img src="${p.img}" alt="${p.name}" onerror="this.style.display='none'">`
@@ -33,9 +39,11 @@ fetch("data/locations.json")
 
       const address = p.address ? `${p.address}<br/>` : "";
       const notes = p.notes ? `ⓘ ${p.notes}<br/>` : "";
+      const closedInfo = isClosed ? `<p class="closed">Sezon 2026 încheiat</p>` : "";
 
       marker.bindPopup(
-        `<b>${p.name}</b><br/>
+        `${closedInfo}
+        <b>${p.name}</b><br/>
         ${address}
         ${notes}
         ${imgHtml}`,
