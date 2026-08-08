@@ -8,6 +8,41 @@
 
 export const STORIES = [
   {
+    title: "Pepene rece la Plaiul Foii",
+    text: `Aveam 5 ani, sau 7, nu mai țin minte. Era una dintre acele veri toride care au format apoi un obicei devenit repede tradiție: fuga de canicula câmpiei de vest spre bunica, ce locuia la poalele Munților Făgăraș, și spre plaiurile natale, faimosul Bran.
+
+În respectiva zi însorită și călduroasă îmi aduc, vag, aminte că tatăl meu m-a luat cu el. Am prins o ocazie din Bran — posibil să fi fost un celebru microbuz RAF, fostă ambulanță, dar la fel de posibil este să încurc amintirile. Probabil ne-a dus până în Zărnești, iar de acolo am luat-o la pas, în drumeție.
+
+Posibil să ne fi oprit la Uzina Mecanică Tohan, unde se făceau biciclete — și, cică, și armament — dar, din nou, este foarte posibil să încurc amintirile. Cert este că am pornit pe jos în drumeție, care poate să fi fost mai lungă — cu siguranță așa va spune tatăl meu, dacă îl întreb — sau mai scurtă. Sincer, nu prea îmi aduc aminte.
+
+În stânga noastră se ridica impunător masivul Piatra Craiului, pe care l-am admirat de multe ori, dar pe care, din păcate, nu l-am străbătut niciodată. Despre el, însă, tatăl meu a povestit de nenumărate ori, adesea aceleași povești.
+
+Sunt sigur că a fost un drum frumos, dar cred că, pe vremea aceea, mă uitam mai mult în jos, la picioare. Îmi aduc clar aminte culoarea drumului pietruit: era un ocru pal, probabil de la mult calcit, praf și nisip.
+
+Într-un final am ajuns la destinația mult râvnită de tatăl meu: cabana Plaiul Foii, o construcție rustică ce a rezistat până în zilele noastre. Ultima dată când am vizitat-o arăta aproape exact cum mi-o aminteam, doar cu ceva mai mult pavaj și mai multe mese pentru turiști.
+
+Tatăl meu s-a întâlnit acolo cu un prieten, al cărui nume l-am uitat, și au desfăcut repede câte o bere rece. Cum era mijlocul verii, prietenul în cauză avea la el pepeni — posibil mai mulți — și mi-a tăiat o felie mare.
+
+Nu mai mâncasem pepene până atunci sau, cel puțin, nu îmi aduc aminte să mai fi mâncat. Cert este că am mâncat cu foarte mare poftă. Pepenele era rece, fusese ținut în râu până atunci. Și, pe cât de mare mi-a fost pofta, pe atât de repede mi s-a făcut rău de la viteza cu care am mâncat.
+
+Posibil să fi fost și aceasta o premieră, dar cert este că multă vreme după aceea nu am mai vrut să mănânc pepene.
+
+Anul următor, părinții m-au dus la mare.
+
+Țin minte că am stat la un hotel imens. La un moment dat mă întorceam singur spre cameră, dar hotelul mi se părea un labirint și îmi era greu să-mi aduc aminte care era exact camera sau etajul. Mă bazam mai degrabă pe repere vizuale decât pe citit.
+
+În fine, eram suficient de convins că găsisem camera. Am apăsat pe clanță și am deschis ușa, ca apoi să văd un cuplu tânăr stând la o masă și mâncând.
+
+Nu erau părinții mei. Greșisem camera.
+
+Dar cuplul mi-a zâmbit și m-a invitat la masă cu ei.
+
+Am fugit, trântind ușa.
+
+Mâncau pepene.`,
+    author: "Răzvan",
+  },
+  {
     title: "Pepenele, viața mea",
     author: "Diana",
     text: `Când eram mică, pepenele era viața mea. Pe vremea aia îmi petreceam verile la bunica unde aveam destul de des pepene la masă. Bunicul mânca pepenele roșu cu pâine și mă uitam mereu la el fascinată și mă gândeam cât de ciudat e bunicul (dar sincer asta era cea mai mică problemă a lui.) Eu îmi petreceam mult timp scobind toți sâmburii negri din bucățile de pepene și abia după ce îi scoteam pe toți mă puteam bucura de gustul lui. În unele zile, bunica venea cu câte un pepene galben, parfumat. Ne tăia mie și fratelui meu câte o felie și ne dădea zahăr să presărăm deasupra. Nu știu de ce la pepenele galben primeam zahăr și la cel roșu nu, și nici nu am întrebat-o vreodată.
