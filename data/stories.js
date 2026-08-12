@@ -8,6 +8,13 @@
 
 export const STORIES = [
   {
+    title: "Poftă nebună de pepene",
+    text: `Mi-e greu să mănânc pepene. Când eram în gimnaziu, stăteam la masă cu tătâne-miu, care sorbea din felii de parcă venea sfârșitul lumii. Soarele de august pătrundea în bucătărie și lumina zeama care-și croia drum spre marginile mesei, apoi șiroia pe gresia maro. Sâmburii căzuți pe jos se pierdeau în luciul ei.
+
+Mama tăia felie după felie, abia ținând pasul cu pofta de pepene care-l apuca pe tătâne-miu în fiecare vară. „Doamne, mai bine nu lăsai pepenii pe pământ”, mă gândeam, privindu-l cum soarbe zgomotos din a șaptea felie, transpirat până la șolduri, cotropit de pofta aceea fără rușine pe care numai vara pare s-o scoată din om.`,
+    author: "Cornel",
+  },
+  {
     title: "Pepene rece la Plaiul Foii",
     text: `Aveam 5 ani, sau 7, nu mai țin minte. Era una dintre acele veri toride care au format apoi un obicei devenit repede tradiție: fuga de canicula câmpiei de vest spre bunica, ce locuia la poalele Munților Făgăraș, și spre plaiurile natale, faimosul Bran.
 
