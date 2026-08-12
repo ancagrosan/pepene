@@ -15,6 +15,13 @@ Mama tăia felie după felie, abia ținând pasul cu pofta de pepene care-l apuc
     author: "Cornel",
   },
   {
+    title: "Superioritate la pepeni",
+    author: "anca",
+    text: `Am fost invitată de un prieten la ziua lui undeva la marginea Clujului, la niște grădini unde lucra el. Fiind vară, am dus cu mine un pepene. Era începutul sezonului la pepeni. Printre ceilalți invitați era și o femeie din Bali, care când a văzut pepenele a spus cu superioritate:
+
+"Ce treabă aveți voi cu pepenii în climatul ăsta? Pepenele e un fruct exotic, e de la noi din Bali. La voi nu are cum să fie bun. La noi crește tot anul, la voi de câte ori pe an se coace? No vezi...”`,
+  },
+  {
     title: "Pepene rece la Plaiul Foii",
     text: `Aveam 5 ani, sau 7, nu mai țin minte. Era una dintre acele veri toride care au format apoi un obicei devenit repede tradiție: fuga de canicula câmpiei de vest spre bunica, ce locuia la poalele Munților Făgăraș, și spre plaiurile natale, faimosul Bran.
 
