@@ -215,5 +215,19 @@
     "address": "Piața Mihai Viteazu 17",
     "notes": "Intrarea de la flori",
     "img": "assets/location-images/mihai-viteazu.png"
+  },
+  {
+    "name": "Ion Meșter",
+    "lat": 46.75677313927113, 
+    "long": 23.556985909416575,
+    "address": "Strada Ion Meșter",
+    "img":"assets/location-images/ion-mester.jpg"
+  }, 
+  {
+    "address": "Strada Mehedinți 102",
+    "name": "Mehedinți",
+    "lat": 46.754601890963116, 
+    "long": 23.560588943118894,
+    "img": "assets/location-images/mehedinti.jpg"
   }
 ]
