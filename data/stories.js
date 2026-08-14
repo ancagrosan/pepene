@@ -8,6 +8,30 @@
 
 export const STORIES = [
   {
+    title: "A pepene fewer dream",
+    text: `In the middle of the night, at 1.00 am, my mate M. decided to go for a jog. 
+
+The fact that he set off in the middle of the night didn’t surprise me; it was simply the fact that he was going for a jog. Friends can surprise you every now and then, in a positive way too. In any case, he set off and ran his precisely measured one-kilometre lap.
+
+He explained it to me like this: by tracking this route just once, from now on he’d only have to count the laps instead of checking the distance every time.
+
+A lap in Muresanu isn’t that easy, though. You can’t avoid running uphill. So, as he was doing his usual lap, he suddenly froze in his tracks. He saw something rolling ahead of him on the dimly lit road. It’s getting faster and faster; a shadow darts through Muresanu at such a late hour.
+
+In his place, I’d have been scared – that might partly be down to my already chronic fear of dogs – but not my mate. He’s relaxed and tends to let things come to him, just like this strange object that keeps getting closer and closer, and actually comes to a halt right at his feet.
+
+Yes, some people just attract things, whether good or bad, but honestly, I don’t think everyone goes for a jog through Muresanu at 1 am and unexpectedly stumbles upon a watermelon.
+As if it were the most natural thing in the world, he picks up the melon and looks around. He can’t see a soul far and wide. It’s dark; dogs are barking in the distance. I’ve just made that up – I’ve told you I’m absolutely terrified of them. My friend really couldn’t trace this watermelon to anyone, or so he assured me, anyway. In any case, the watermelon is now his.
+
+With the watermelon in hand, he continues his latest exercise regime and enters his flat through the garden gate. In the garden, too, he sees shadows darting about. Naturally, that doesn’t frighten him in the slightest either. His girlfriend is doing her exercises at that very moment. The two of them really are a dream couple.
+
+That strikes me once again. She tells me excitedly that she didn’t know what M. was carrying there; she thought it was a cat or a puppy. But no, it’s a watermelon. I suspect the cat or dog will follow at some point – I’m actually quite sure of it.
+
+Anyway, what could be better than a refreshing treat after some physical exercises? What could be more suitable than a watermelon? Exactly – nothing at all! Of course, it could also be chilled, but that would be a bit too much of a coincidence, even for my friend.
+
+P.S. Deep down, I still don’t believe he actually does sports.`,
+    author: "Lukas",
+  },
+  {
     title: "Poftă nebună de pepene",
     text: `Mi-e greu să mănânc pepene. Când eram în gimnaziu, stăteam la masă cu tătâne-miu, care sorbea din felii de parcă venea sfârșitul lumii. Soarele de august pătrundea în bucătărie și lumina zeama care-și croia drum spre marginile mesei, apoi șiroia pe gresia maro. Sâmburii căzuți pe jos se pierdeau în luciul ei.
 
