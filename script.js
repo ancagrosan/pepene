@@ -70,8 +70,11 @@ soundBtn.addEventListener("click", () => {
   soundAudio.currentTime = 0;
   soundAudio.play();
 
-  // Track how many times the pepene button is clicked
-  fetch("https://api.counterapi.dev/v1/pepeni-cluj/pepene-button-clicks/up")
-    .then((res) => res.json())
-    .catch((err) => console.error("Counter error:", err));
+  // TODO: counterapi v1 api just got deprecated,
+  // worth upgrading to v2? think about it
+
+  //   // Track how many times the pepene button is clicked
+  //   fetch("https://api.counterapi.dev/v2/pepeni-cluj/pepene-button-clicks/up")
+  //     .then((res) => res.json())
+  //     .catch((err) => console.error("Counter error:", err));
 });
