@@ -229,5 +229,12 @@
     "lat": 46.754601890963116, 
     "long": 23.560588943118894,
     "img": "assets/location-images/mehedinti.jpg"
+  },
+  {
+    "address": "Strada Dâmboviței 56",
+    "name": "Dâmboviței",
+    "lat": 46.78131166062222, 
+    "long": 23.62512972674931,
+    "notes": "foarte buni si dulci"
   }
 ]
