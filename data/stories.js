@@ -8,6 +8,39 @@
 
 export const STORIES = [
   {
+    title: "WE NEED A MAN",
+    text: `Oh, how I resent to remember and write what happened next. I was driving home with my groceries, I turned the corner, it began to drizzle. And as I lifted my eyes from the beggar wishing me the Lord’s protection, I sat frozen at the wheel of my car, watching my state-allocated clone, Xenia the Second, and my ex-boyfriend, Sandro, in the bus station, hugging languorously, two or three times.
+Maybe he thought it was me.
+Maybe he knew and he wanted me to see.
+Maybe there was never any difference.
+The blind leading the blind.
+Kissing him on the cheek, Xenia the Second pranced girlishly into my car, which I screeched into the bus stop, turning my face away so Sandro wouldn’t see me. She got in breathlessly, smelling of perfume and bubble gum. I felt like her staid, middle-aged mother.
+We sat in silence as I drove.
+After a few minutes, she turned to me. I could feel her eyes on me.
+Honestly, I could feel my brain crashing out. I focused on the road. But something caught my eye: the bright green skirt of a hunchbacked woman, against a background of what appeared to be stacked boulders on two tables under a makeshift tent. In order to keep my grip on reality, I focused on her. As we approached her, I swerved in and parked.
+“What are you doing?”
+“I think we should sweeten up and buy ourself a watermelon. But don’t worry, I’ll pay,” I said, winking at her with acrimony.
+“You don’t even like watermelon,” she replied.
+“I don’t like it because I’m too lazy to cut it open. But now that I have you…two heads are better than one.”
+She smiled and, as we emerged from the car, looped her arm around my waist in that way of hers, that irresistible, unique way of hers that was unlike any other’s, as I fantasised about running her over with a tractor.
+We chose a watermelon: the biggest, most glorious one. It was a struggle to get it to the scale even for all three of us.
+“We need a man for this kind of job,” I joked to the watermelon seller. ‘What are you doing out here all by yourself?’
+“Oh, I had a man. But he died. My husband. He would carry watermelons on his back for miles. And then when we cut it open we’d see they were totally corrupt on the inside. Not this one though. This one is nice and juicy.”
+We looked at the scale.
+‘Overpriced,” my double whispered.
+“Have a heart,” I replied. ‘Support local producers. Open your heart to dreaming.”
+I paid gallantly. “Now, you girls put that in the trunk,” I called, sliding into the driver’s seat.
+The last thing I saw were their shocked faces as I drove away. The lady’s, wrinkled and dry, my double’s like a full moon. Soon enough, I heard the huge watermelon roll out of my car with a splattering plop onto the road, shocking everyone else in traffic, who had to drive mercilessly through the sticky red slush. When it fell out, my car jolted up suddenly lighter. Some protesting, speeding by me in order to roll down their windows and scream to me that I’m a crazy bitch, their mouths bending in ugly shapes. I kept driving, even as my phone yelped with messages, as if pained. I glanced at it at a red light: Your grandparents would be ashamed of you! Auntie Augusta would be ashamed of you!
+I felt sick to my stomach, but kept driving. What if I barfed? I had never barfed at the wheel. What would happen if I did, I wondered. The whiplash of intoxicating narcissists, Anubis would have told me, nodding knowingly. But what difference did a diagnosis make? Xenia was just one other voice of the shame chorus — no more important than the nanny. What if I myself was the narcissist? Oh, who cared?
+I arrived at Auntie Augusta’s place. She didn’t have a parking space so I had to parallel park in the nearby area, which took me twenty minutes since I didn’t know how to parallel park, and I was sweating all over. I rang the doorbell a few times and waited. With irritation and exasperation and love, I fumbled for the spare key I had and unlocked the door.
+“Hello?” I called.
+Nothing.
+“It’s me!” I called.
+I remembered only then that nobody was home. I wandered through the empty rooms pointlessly. As always, I stopped in front of the bookshelf. A familiar name caught my eye: Gabriel García Marquez. Some novella about an organ-player by the seaside. He wrote it when he was old and confused and it was published posthumously — or will be, six months from today, except that it’s been gathering dust in Auntie Augusta’s bookshelf for years, because she’s magical like that. Strange sort of peace.
+`,
+    author: "Andreea Iulia Scridon",
+  },
+  {
     title: "A pepene fewer dream",
     text: `In the middle of the night, at 1.00 am, my mate M. decided to go for a jog. 
 
